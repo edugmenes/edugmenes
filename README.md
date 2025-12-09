@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eduardo Belarmino Gimenes!
 - 👀 I’m interested in BI & data and software development.
-- 🌱 I'm currently studying and getting hands-on experience with Oracle tools.
+- 🌱 I'm currently studying and getting hands-on experience with Power BI and Databricks!
 - 📫 How to reach me: <br>E-mail: edugmenes1@gmail.com <br>Social: https://www.linkedin.com/in/eduardo-belarmino-gimenes/
 
 <!---
